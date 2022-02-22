@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Tetsuo
+- 🌱 I’m working on web3 application & I love music 
